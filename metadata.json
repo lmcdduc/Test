@@ -1,0 +1,6 @@
+{
+  "name": "Kiln — Agentic Coding Studio",
+  "description": "Outil de développement agentique autonome propulsé par Gemini et l'écosystème Google AI Studio : sélecteur de modèles dynamique, permissions interactives, fichiers directeurs et self-check.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
